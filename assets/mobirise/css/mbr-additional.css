@@ -1273,6 +1273,9 @@ a {
   padding-bottom: 0rem;
   background-image: url("../../../assets/images/mbr-1920x1338.webp");
 }
+.cid-tOSoECvcGn .row {
+  flex-direction: row-reverse;
+}
 .cid-tOSoECvcGn .price-wrapper {
   position: absolute;
   right: 20%;
